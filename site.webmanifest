@@ -1,0 +1,22 @@
+{
+ "name": "DEWA89 - Account Security & Phishing Awareness",
+ "short_name": "DEWA89",
+ "description": "Free educational resource on account security, published by DEWA89.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "browser",
+ "background_color": "#0b1220",
+ "theme_color": "#0b1220",
+ "icons": [
+  {
+   "src": "assets/icon.png",
+   "sizes": "128x128",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
